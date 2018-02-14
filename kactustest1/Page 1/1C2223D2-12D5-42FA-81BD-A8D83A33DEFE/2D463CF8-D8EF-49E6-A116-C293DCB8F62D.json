@@ -31,8 +31,15 @@
   "name": "Cells/Application/Mail Cell",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5C4E9F12-BDB0-4826-B24D-85417D04C78A",
+      "overrideName": "6C79ABE9-2CD7-4B11-A01E-BCD26A9B30A4_stringValue",
+      "value": "Michael Jackson"
+    }
   ],
   "overrides": {
+    "6C79ABE9-2CD7-4B11-A01E-BCD26A9B30A4": "Michael Jackson"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "6D453892-32E0-411C-B442-A0A6439BB48A",
+  "do_objectID": "DDCE92A4-9376-4E5B-BD21-EA038B12EFC7",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,7 +16,7 @@
     "height": 116,
     "width": 375,
     "x": 0,
-    "y": 296
+    "y": 180
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -33,13 +33,12 @@
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "5B13CCC3-9687-436C-8384-514720F5E9EC",
       "overrideName": "6C79ABE9-2CD7-4B11-A01E-BCD26A9B30A4_stringValue",
-      "value": "John Doe"
+      "value": "Michael Jackson"
     }
   ],
   "overrides": {
-    "6C79ABE9-2CD7-4B11-A01E-BCD26A9B30A4": "John Doe"
+    "6C79ABE9-2CD7-4B11-A01E-BCD26A9B30A4": "Michael Jackson"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

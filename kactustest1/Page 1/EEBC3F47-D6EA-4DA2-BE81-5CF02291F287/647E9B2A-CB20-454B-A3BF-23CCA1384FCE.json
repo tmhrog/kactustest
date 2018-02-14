@@ -1,6 +1,6 @@
 {
   "_class": "symbolInstance",
-  "do_objectID": "6D453892-32E0-411C-B442-A0A6439BB48A",
+  "do_objectID": "647E9B2A-CB20-454B-A3BF-23CCA1384FCE",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -16,7 +16,7 @@
     "height": 116,
     "width": 375,
     "x": 0,
-    "y": 296
+    "y": 64
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -31,15 +31,8 @@
   "name": "Cells/Application/Mail Cell",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "5B13CCC3-9687-436C-8384-514720F5E9EC",
-      "overrideName": "6C79ABE9-2CD7-4B11-A01E-BCD26A9B30A4_stringValue",
-      "value": "John Doe"
-    }
   ],
   "overrides": {
-    "6C79ABE9-2CD7-4B11-A01E-BCD26A9B30A4": "John Doe"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

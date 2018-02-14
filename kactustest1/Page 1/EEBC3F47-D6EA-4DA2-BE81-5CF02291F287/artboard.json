@@ -7,7 +7,7 @@
     "green": 1,
     "red": 1
   },
-  "do_objectID": "1C2223D2-12D5-42FA-81BD-A8D83A33DEFE",
+  "do_objectID": "EEBC3F47-D6EA-4DA2-BE81-5CF02291F287",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,7 +22,7 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": 142,
+    "x": 617,
     "y": -48
   },
   "hasBackgroundColor": false,
@@ -43,46 +43,26 @@
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "AF500EB9-93A1-4FD2-B91D-3074113C382F"
+      "id": "C81702D6-633C-41B1-8F47-F1D9849868FB"
     },
     {
       "class": "symbolInstance",
-      "id": "D11C1F09-1083-415A-BA20-EEF405B79697"
+      "id": "647E9B2A-CB20-454B-A3BF-23CCA1384FCE"
     },
     {
       "class": "symbolInstance",
-      "id": "2D463CF8-D8EF-49E6-A116-C293DCB8F62D"
+      "id": "DDCE92A4-9376-4E5B-BD21-EA038B12EFC7"
     },
     {
       "class": "symbolInstance",
-      "id": "6D453892-32E0-411C-B442-A0A6439BB48A"
+      "id": "531A0A88-2A89-4789-8D22-FC1FE6B1FC58"
     },
     {
       "class": "symbolInstance",
-      "id": "80B52AB4-24AB-4DEC-B07C-0891A510AFE2"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "BC16CCC6-BBF7-4D85-AA34-C012BD5AB336"
-    },
-    {
-      "class": "text",
-      "id": "DBFC2185-7780-4587-AA9E-B3B6D5788B5A"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "2C24F655-1548-44D4-BC52-7109312FB589"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "CE7DA166-13ED-44E5-82E6-7B15D51B50BF"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "D4DD81F4-55B6-4A5F-94AF-EB07B87A341B"
+      "id": "0E09B910-C6F1-4CB9-8D39-5B6279F9FF11"
     }
   ],
-  "name": "iPhone 8",
+  "name": "iPhone 8 Copy",
   "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
